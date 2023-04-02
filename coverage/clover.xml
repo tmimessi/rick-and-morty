@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680297163850" clover="3.2.0">
+  <project timestamp="1680297163851" name="All files">
+    <metrics statements="64" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="25" coveredmethods="0" elements="101" coveredelements="0" complexity="0" loc="64" ncloc="64" packages="12" files="22" classes="22"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="globalStyle.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/globalStyle.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="main.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/main.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Character">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Character/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Character/styles.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CharacterDetails">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/CharacterDetails/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/CharacterDetails/styles.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CharactersList">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/CharactersList/index.jsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/CharactersList/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Divider">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Divider/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Divider/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.FavoriteButton">
+      <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/FavoriteButton/index.jsx">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/FavoriteButton/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Header">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Header/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/Header/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.SearchInput">
+      <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/SearchInput/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/components/SearchInput/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.hooks">
+      <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="FavoriteContext.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/hooks/FavoriteContext.jsx">
+        <metrics statements="8" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Details">
+      <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/pages/Details/index.jsx">
+        <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.Home">
+      <metrics statements="21" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/pages/Home/index.jsx">
+        <metrics statements="20" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+      </file>
+      <file name="styles.js" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/pages/Home/styles.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.routes">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="app.routes.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/routes/app.routes.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+      <file name="index.jsx" path="/Users/tmimessi/Desktop/rick&morty/rick-morty/src/routes/index.jsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
